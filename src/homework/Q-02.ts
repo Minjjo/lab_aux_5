@@ -5,26 +5,25 @@
   */
  
 
-  class word_to_word {}
+  class wordToWord {}
 
-  interface props {}
+  interface Props {}
 
-  type moves = {}
+  type Moves = {}
 
-  function GET_FOOD() {}
+  function getFood() {}
 
-  function SETPRODUCTNAME() {}
+  function setProductName() {}
 
-  type directions = {}
+  type Directions = {}
 
-  interface IDBPROPS {}
+  interface IDbProps {}
 
-  class ATOBTOC {}
+  class aToBToC {}
 
   // los 2 valores siguientes son constantes.
 
-  const constant_one = 3;
-
-  let constant_two = 4;
+  const CONSTANT_ONE = 3;
+  const CONSTANT_TWO = 4;
 
 })();
